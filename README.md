@@ -13,6 +13,9 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=fcdc00)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=3178c6)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/jordan-kuibia-a78b10189) 
+[![LinkedIn Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=2168a6)](https://www.facebook.com/jordan.kuibia.372)
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/armel_jordan10/)
 
 ```json
 {
