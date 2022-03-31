@@ -22,6 +22,7 @@
   "fname" : "Armel Jordan",
   "lname" : "Kuibia Tchounga",
   "email" : "Armel.jordan.kuibia.tchounga@uqtr.ca",
+            "jkuibia@gmail.com"
   "profession": "Student",
   "languages": [
       "Java",
